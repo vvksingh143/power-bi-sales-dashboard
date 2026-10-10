@@ -1,0 +1,37 @@
+Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price_INR,Payment_Mode,Sales_INR,Month
+ORD1001,2026-01-03,North,Delhi,Electronics,Headphones,2,1800,UPI,3600,Jan 2026
+ORD1002,2026-01-05,West,Mumbai,Office,Notebook Pack,5,250,Card,1250,Jan 2026
+ORD1003,2026-01-08,South,Bengaluru,Electronics,Keyboard,1,2200,UPI,2200,Jan 2026
+ORD1004,2026-01-12,East,Patna,Home,Desk Lamp,2,950,Cash,1900,Jan 2026
+ORD1005,2026-01-16,North,Jaipur,Office,Pen Set,4,180,UPI,720,Jan 2026
+ORD1006,2026-01-20,West,Pune,Electronics,Mouse,3,650,Card,1950,Jan 2026
+ORD1007,2026-02-02,South,Chennai,Home,Water Bottle,4,400,UPI,1600,Feb 2026
+ORD1008,2026-02-06,East,Darbhanga,Office,File Folder,6,120,Cash,720,Feb 2026
+ORD1009,2026-02-11,North,Delhi,Electronics,Webcam,1,3200,Card,3200,Feb 2026
+ORD1010,2026-02-15,West,Mumbai,Home,Storage Box,3,700,UPI,2100,Feb 2026
+ORD1011,2026-02-19,South,Hyderabad,Office,Notebook Pack,8,250,UPI,2000,Feb 2026
+ORD1012,2026-02-24,East,Patna,Electronics,Headphones,2,1800,Card,3600,Feb 2026
+ORD1013,2026-03-01,North,Jaipur,Home,Desk Lamp,3,950,UPI,2850,Mar 2026
+ORD1014,2026-03-04,West,Pune,Office,Pen Set,10,180,Cash,1800,Mar 2026
+ORD1015,2026-03-09,South,Bengaluru,Electronics,Keyboard,2,2200,Card,4400,Mar 2026
+ORD1016,2026-03-13,East,Darbhanga,Home,Water Bottle,5,400,UPI,2000,Mar 2026
+ORD1017,2026-03-17,North,Delhi,Office,File Folder,7,120,UPI,840,Mar 2026
+ORD1018,2026-03-22,West,Mumbai,Electronics,Mouse,4,650,Card,2600,Mar 2026
+ORD1019,2026-03-25,South,Chennai,Home,Storage Box,2,700,Cash,1400,Mar 2026
+ORD1020,2026-03-29,East,Patna,Electronics,Webcam,2,3200,UPI,6400,Mar 2026
+ORD1021,2026-04-02,North,Delhi,Electronics,Headphones,3,1800,Card,5400,Apr 2026
+ORD1022,2026-04-06,West,Pune,Office,Notebook Pack,6,250,UPI,1500,Apr 2026
+ORD1023,2026-04-10,South,Hyderabad,Home,Desk Lamp,2,950,UPI,1900,Apr 2026
+ORD1024,2026-04-14,East,Darbhanga,Office,Pen Set,12,180,Cash,2160,Apr 2026
+ORD1025,2026-04-18,North,Jaipur,Electronics,Keyboard,1,2200,UPI,2200,Apr 2026
+ORD1026,2026-04-22,West,Mumbai,Home,Water Bottle,7,400,Card,2800,Apr 2026
+ORD1027,2026-04-26,South,Bengaluru,Electronics,Mouse,5,650,UPI,3250,Apr 2026
+ORD1028,2026-04-29,East,Patna,Office,File Folder,9,120,Cash,1080,Apr 2026
+ORD1029,2026-05-03,North,Delhi,Home,Storage Box,4,700,UPI,2800,May 2026
+ORD1030,2026-05-08,West,Pune,Electronics,Webcam,1,3200,Card,3200,May 2026
+ORD1031,2026-05-12,South,Chennai,Office,Notebook Pack,7,250,UPI,1750,May 2026
+ORD1032,2026-05-16,East,Darbhanga,Electronics,Headphones,1,1800,Cash,1800,May 2026
+ORD1033,2026-05-20,North,Jaipur,Office,Pen Set,8,180,UPI,1440,May 2026
+ORD1034,2026-05-24,West,Mumbai,Electronics,Keyboard,2,2200,Card,4400,May 2026
+ORD1035,2026-05-28,South,Hyderabad,Home,Desk Lamp,4,950,UPI,3800,May 2026
+ORD1036,2026-05-31,East,Patna,Home,Water Bottle,6,400,Cash,2400,May 2026
